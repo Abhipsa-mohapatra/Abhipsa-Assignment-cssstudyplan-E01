@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: "Inter", monospace;
+}
+h2{
+    background-color: rgb(227, 34, 34);
+    color: aliceblue;
+    font-size: 34px;
+    text-align: center;
+}
+p{
+    height: 10vh;
+    background-image: linear-gradient(rgb(226, 226, 181),rgb(177, 220, 177));
+    text-align: center;
+    line-height: 10vh;
+}
